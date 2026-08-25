@@ -1,0 +1,6 @@
+1 Arroz 3
+2 Feijao 4
+3 Sal 2
+4 Acucar 7
+5 Leite 5
+6 Macarrao 10
